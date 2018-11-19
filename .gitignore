@@ -1,4 +1,13 @@
-out/
-*.class
-.idea/
-/build
+node_modules/
+target/
+build/
+.gradle/
+bin/
+.settings/
+.vscode/
+.classpath
+.project
+/**/fdlic*.js
+/**/fdlic*.css
+/out/
+/.idea
